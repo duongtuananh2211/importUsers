@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "localId": "9hDuWQDQTtsxQyKwrSMEEP2gN+I=",
+      "email": "testimport10@example.com",
+      "emailVerified": true,
+      "passwordHash": "EfOZTIi5X/HdVAyPMp3ZjkR/Q0VaToCGzMNc+Yg9boqAqP0BfzRsKN9B+V45xJPiau3ZHjNiM/TxAe0bZNXytQ==",
+      "salt": "UC0gsGEwAJqFBw==",
+      "displayName": "testimport01",
+      "providerUserInfo": []
+    }
+  ]
+}
